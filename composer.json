@@ -1,0 +1,22 @@
+{
+    "name": "luana/php_quete",
+    "description": "Essai pour la quête Composer",
+    "authors": [
+        {
+            "name": "Lüana Lorthios",
+            "email": "luanalorthios@windowslive.com"
+        }
+    ],
+    "require": {
+        "ehime/hello-world": "^1.0"
+    },
+
+    "autoload": {
+     "psr-4": {
+         "App\\": "src"}
+     }
+
+
+}
+
+
